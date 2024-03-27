@@ -13,3 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+
+## Note
+
+I did not configure my Google sign in to work with the demo production URL. To test this feature, use your own GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET in dev environment.
